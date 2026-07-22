@@ -11,3 +11,16 @@ Problems
 -Need to research methodology
 Next Goal
 -Read first paper
+
+## Day2
+Date:
+22nd july 2026
+Today's work 
+-Read Paper One (TruthfulQA)
+-Created notes about paper one
+Learned
+-What types of questions Halucinate the LLMs.
+Problems
+-Need to learn more about how to study datasets
+Next Goal
+-Read more papers
