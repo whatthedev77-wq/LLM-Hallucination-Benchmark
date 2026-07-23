@@ -24,3 +24,15 @@ Problems
 -Need to learn more about how to study datasets
 Next Goal
 -Read more papers
+
+## Day3
+Date:23rd july 2026
+Today's work:
+-Read second paper (HaluEval)
+-created notes about paper two
+Learned 
+-Different types of questions from which the models gets halucainate the most
+Problems
+-could not understand some examples of the reasearch 
+Next goal
+- Learn more about the main topic and read one more paper
