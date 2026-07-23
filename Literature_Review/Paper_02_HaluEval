@@ -1,0 +1,38 @@
+Title: HaluEval
+Authors:Junyi Li, Xiaoxue Cheng, Xin Zhao, Jian-Yun Nie, and Ji-Rong Wen
+
+Year: 2023
+
+Summary:
+It was a reaseach on LLMs like gpt ,claude and some local models too where models were asked to give hallcinated answers of diffrent types of tasks mainly QA ,
+text summrization,dilogue. It was noticed that the sensitive fields topic was the fields in which LLMs got halucinated mostly. There was also noticed that the models
+were getting more accurate after providing the required information for the questions. Small models like alpaca, Falcon, llama2 were getting hallucinated most,each 
+was of 7B.From the paper we can easily see how much risky it is to use LLMs for real application tasks , we first need a verification of facts and information beofre 
+using it into real world.
+
+Method:
+This experiment employed Chatgpt to generate diffrent questions for other models with an some info provided before ,and correct answer and halucinated answer then 
+got responses from different models 
+
+Dataset:
+
+Models     QA     Dialogue       Summarization      General
+ChatGPT    62.59    72.40           58.53           79.44
+Claude 2   69.78    64.73            57.75          75.00
+Claude     67.60    64.83            53.76          73.88
+Davinci002 60.05    60.81            47.77          80.42
+Davinci003 49.65    68.37            48.07          80.40
+GPT-3      49.21    50.02            51.23          72.72
+Llama 2    49.60    43.99            49.55          20.46
+ChatGLM    47.93    44.41            48.57          30.92
+Falcon     39.66    29.08            42.71          18.98
+Vicuna     60.34    46.35            45.62          19.48
+Alpaca     6.68     17.55            20.63           9.54
+
+
+Interesting Ideas:
+How it used chatgpt for the reptetive tasks and how first provied a sample  and tested then provied the required info and again tested it.
+
+How this helps my project:
+it helps me to learn the method of testing and how to make the test more hard for the models to get accurate benchmark readings
+
