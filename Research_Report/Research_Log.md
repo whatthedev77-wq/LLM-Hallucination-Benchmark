@@ -36,3 +36,15 @@ Problems
 -could not understand some examples of the reasearch 
 Next goal
 - Learn more about the main topic and read one more paper
+
+## Day4
+Date:24rd july 2026
+Today's work:
+-read paper 3 and made its notes
+Learned:
+- Large questions doesnt mean the question is hard it can be easy comparedd to small questions
+Problems:
+-Couldnt understand some graphs
+Next goal:
+Learn about topicsss of datasets
+
