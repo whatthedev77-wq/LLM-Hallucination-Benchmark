@@ -1,0 +1,32 @@
+#MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING
+#Authors:
+Dan Hendrycks
+Collin Burns
+Steven Basart
+Andy Zou
+Mantas Mazeika
+Dawn Song
+Jacob Steinhardt
+#Year: 2021
+#Summary:
+It was a very popluar benchmark on llms like gpt-3,gpt-2 and some smaller models. It has given 57 tasks on diffrent subject in mcq questions form,the subjects include
+STEM , law, medical ,bussiness, morality etc. Each mcq contained 4 options with only one correct option.it concluded that large models have more accuracy than smaller 
+models and worryingly lager model performed very poor in subjects like law and morality. there was a antoher conclusion that the large question with more than 280 
+charcters were not hard and models performed well in it.
+#Method:
+The test was mainly three types , first where model was pretrained with an internet access where model was trained with certain data ,second where before every questions 
+were asked 5 examples with anseers of each was provied and third dev have set up 5 questions for every subjecct before the question asked .
+#Dataset:
+Model                   Humanities     Social Science   STEM    Other   Average
+Random Baseline         25.0               25.0          25.0     25.0    25.0
+RoBERTa                 27.9               28.8          27.0     27.7    27.9
+ALBERT                  27.2               25.7          27.7      27.9   27.1
+GPT-2                   32.8               33.3          30.2      33.1   32.4
+UnifiedQA               45.6               56.6          40.2      54.6   48.9
+GPT-3 Small (few-shot)  24.4               30.9          26.0      24.1   25.9
+GPT-3 Medium (few-shot) 26.1               21.6          25.6      25.5   24.9
+GPT-3 Large (few-shot)  27.1               25.6          24.3      26.5   26.0
+GPT-3 X-Large (few-shot)40.8               50.4          36.7      48.8   43.9
+#Interesting Ideas:
+How the test was simple but effective for the data  and a very neat and easy data set.
+
