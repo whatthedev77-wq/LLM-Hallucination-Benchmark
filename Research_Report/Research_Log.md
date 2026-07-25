@@ -48,3 +48,10 @@ Problems:
 Next goal:
 Learn about topicsss of datasets
 
+## Day5
+Date:25th july 2026
+Today's work:
+-Understood what is benchmark and its terms
+-Learned about the different types of scores of benchmarking
+Next goal:
+Read paper 4
