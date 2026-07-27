@@ -55,3 +55,10 @@ Today's work:
 -Learned about the different types of scores of benchmarking
 Next goal:
 Read paper 4
+
+## Day-6
+Date:27th july 2026
+Today's works:
+-Read some pages of paper 4
+Next goal:
+- Complete reading of paper four and makes notes of it.
