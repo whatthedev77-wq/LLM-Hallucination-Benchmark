@@ -1,0 +1,22 @@
+#BIG BENCH 
+#Author:Aarohi Srivastava 
+#Year:2022
+#Summary:
+BIG-bench is a benchmark used to test how smart Large Language Models (LLMs) are by giving them many difficult tasks like reasoning, math, coding, and language
+understanding. It was created because older benchmarks had become too easy for modern AI models. The research showed that as AI models become larger, they can 
+suddenly develop new abilities and perform much better on complex tasks.
+#Method:
+It was tested by whole community by difficult taks orginaaly 200 but due to high cost 24 very difficult tasks on diffrent subjects
+#DATASET:
+Model     	           Performance on BIG-bench
+GPT-2	                 Low performance; struggled on most reasoning tasks.
+GPT-3                  (smaller versions)	Moderate performance; solved basic tasks but failed on many complex ones.
+GPT-3                  (175B)	High performance; showed strong reasoning and emergent abilities on several tasks.
+Other large models     (e.g., PaLM, later evaluations)	Performed even better than GPT-3 on many BIG-bench tasks as model size increased.
+Intersting ideas:
+-Emergent Abilities – Large AI models can suddenly learn new skills (like solving logic puzzles or complex reasoning) once they reach a certain size,
+instead of improving gradually.
+-Community-Driven Benchmark – Hundreds of researchers contributed tasks, making the benchmark more diverse and reducing bias from a single research group.
+Limitations:
+-IT was computational expensive
+-Some tasks may become outdated as models improve
