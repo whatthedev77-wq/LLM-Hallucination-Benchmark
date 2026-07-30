@@ -62,3 +62,13 @@ Today's works:
 -Read some pages of paper 4
 Next goal:
 - Complete reading of paper four and makes notes of it.
+
+#Day-7 
+Date:28th July 2026
+Today's work:
+-Completed reading paper 4 (Big-Bench)
+-Made notes about it
+Learned:
+-Understood why it was created and How
+Next Goal:
+-Make a weekly reasearch log 
