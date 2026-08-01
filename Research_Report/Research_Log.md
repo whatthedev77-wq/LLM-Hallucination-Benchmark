@@ -73,3 +73,13 @@ Learned:
 Next Goal:
 -Make a weekly reasearch log 
 
+## DAY-8 
+Date:01 august 2026
+today's work:
+-Completed reading paper 5 (HELM)
+-Made notes of it
+Learner:
+- WE should evalulate models on different factors not only on accuaracy
+Next Goal:
+-Define research problem
+
