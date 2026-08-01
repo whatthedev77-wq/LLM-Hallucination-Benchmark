@@ -1,0 +1,24 @@
+HELM (Holistic Evaluation of Language Models)
+
+Author(s): Percy Liang et al.
+Year: 2022
+
+Summary 
+
+HELM (Holistic Evaluation of Language Models) is a benchmark developed by Stanford to evaluate Large Language Models across many real-world scenarios. Instead of focusing only on accuracy, it measures multiple aspects such as fairness, robustness, efficiency, bias, and calibration. It provides a standardized framework to compare different LLMs in a comprehensive and transparent way.
+
+Dataset
+Scenarios: 16 core evaluation scenarios (e.g., question answering, summarization, information retrieval, reasoning, classification)
+Models Evaluated: 30+ language models (GPT-3, Jurassic-1, T0, Anthropic models, etc.)
+Metrics: 7 key metrics including accuracy, calibration, robustness, fairness, bias, toxicity, and efficiency.
+Limitations
+Covers only a limited set of scenarios and languages.
+Evaluating many models across multiple metrics requires high computational resources.
+Newer and more capable models may require additional evaluation scenarios.
+What I Learned from It
+AI models should be evaluated on multiple factors, not just accuracy.
+A standardized benchmark helps compare different LLMs fairly.
+Fairness, robustness, and efficiency are important for real-world AI applications.
+Interesting Ideas
+Holistic Evaluation: A single benchmark measures many qualities of an AI model instead of only performance.
+Multi-metric Comparison: HELM highlights that the "best" model depends on the evaluation metric (accuracy, fairness, efficiency, etc.), not just one overall score.
