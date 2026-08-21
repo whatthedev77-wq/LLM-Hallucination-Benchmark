@@ -78,8 +78,16 @@ Date:01 august 2026
 today's work:
 -Completed reading paper 5 (HELM)
 -Made notes of it
-Learner:
+Learned:
 - WE should evalulate models on different factors not only on accuaracy
 Next Goal:
 -Define research problem
 
+## Day-9
+Date:21 august 2026
+Today's work:
+-Made Research problem.md
+Learned:
+The problems LLM's hallucination create 
+Next Goal:
+Define Research problems questions
