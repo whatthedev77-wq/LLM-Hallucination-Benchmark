@@ -84,10 +84,16 @@ Next Goal:
 -Define research problem
 
 ## Day-9
-Date:21 august 2026
+Date:20 august 2026
 Today's work:
 -Made Research problem.md
 Learned:
 The problems LLM's hallucination create 
 Next Goal:
 Define Research problems questions
+## Day-10
+Date:21 august 2026
+Today's work:
+-Made research questions.md
+Next Goal:
+Start designing benchmark
