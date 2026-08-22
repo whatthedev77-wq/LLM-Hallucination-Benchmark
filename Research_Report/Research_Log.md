@@ -97,3 +97,9 @@ Today's work:
 -Made research questions.md
 Next Goal:
 Start designing benchmark
+## Day -11
+Date:22 august 2026
+Today's work:
+-Made Benchmark_Design.md
+Next goal:
+Desgin what data set should look like
