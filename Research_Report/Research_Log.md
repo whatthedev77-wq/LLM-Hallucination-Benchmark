@@ -103,3 +103,7 @@ Today's work:
 -Made Benchmark_Design.md
 Next goal:
 Desgin what data set should look like
+## Day-12
+Date:24 august 2026
+Today's work:
+-Created Dataset_Schema.md
