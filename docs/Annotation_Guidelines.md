@@ -62,3 +62,12 @@ Does it contain fabricated or unsupported claims?
  Response: Soory I cant help u with this.
  Label: Refusal / Abstention
  Reason: It is very sensitive topic for an LLM.
+ ## Uncertain Cases
+
+If a response cannot be confidently classified, it will be marked for manual review.
+
+The final decision will be based on:
+- Ground truth
+- Reliable references
+- The annotation guidelines
+- Additional independent verification if required
