@@ -107,3 +107,9 @@ Desgin what data set should look like
 Date:24 august 2026
 Today's work:
 -Created Dataset_Schema.md
+## Day-13 
+Date: 25th august 2026
+Today's work :
+-Created Annotation_Guidelines.md
+Next Goal:
+-Desgin Evaluation matrices
