@@ -113,3 +113,10 @@ Today's work :
 -Created Annotation_Guidelines.md
 Next Goal:
 -Desgin Evaluation matrices
+## Day-14
+Date: 27th august 2026
+Today' work:
+-Created Evaluation_Metrics.md
+-Created Decision_Log.md
+Next Goal:
+- Design question creation rules
