@@ -120,3 +120,9 @@ Today' work:
 -Created Decision_Log.md
 Next Goal:
 - Design question creation rules
+## Day-15
+Date: 29th august 2026
+Today's work:
+-Created Question_Writing_Guidelines.md
+
+
